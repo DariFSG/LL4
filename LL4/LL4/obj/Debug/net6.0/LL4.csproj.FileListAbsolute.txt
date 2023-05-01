@@ -1,0 +1,15 @@
+C:\Users\KEY\Downloads\LL4\LL4\bin\Debug\net6.0\LL4.exe
+C:\Users\KEY\Downloads\LL4\LL4\bin\Debug\net6.0\LL4.deps.json
+C:\Users\KEY\Downloads\LL4\LL4\bin\Debug\net6.0\LL4.runtimeconfig.json
+C:\Users\KEY\Downloads\LL4\LL4\bin\Debug\net6.0\LL4.dll
+C:\Users\KEY\Downloads\LL4\LL4\bin\Debug\net6.0\LL4.pdb
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.csproj.AssemblyReference.cache
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.AssemblyInfoInputs.cache
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.AssemblyInfo.cs
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.csproj.CoreCompileInputs.cache
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.dll
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\refint\LL4.dll
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.pdb
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\LL4.genruntimeconfig.cache
+C:\Users\KEY\Downloads\LL4\LL4\obj\Debug\net6.0\ref\LL4.dll
